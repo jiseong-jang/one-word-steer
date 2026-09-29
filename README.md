@@ -59,10 +59,10 @@ Want it different? Reply with one word → Shorter · Table · Formal
 
 ```bash
 # personal (all projects)
-git clone https://github.com/<your-username>/one-word-steer.git ~/.claude/skills/one-word-steer
+git clone https://github.com/jiseong-jang/one-word-steer.git ~/.claude/skills/one-word-steer
 
 # or project-level
-git clone https://github.com/<your-username>/one-word-steer.git .claude/skills/one-word-steer
+git clone https://github.com/jiseong-jang/one-word-steer.git .claude/skills/one-word-steer
 ```
 
 ### Claude.ai (web / desktop)
