@@ -59,10 +59,10 @@ Claude:
 
 ```bash
 # 개인용 (모든 프로젝트)
-git clone https://github.com/<your-username>/one-word-steer.git ~/.claude/skills/one-word-steer
+git clone https://github.com/jiseong-jang/one-word-steer.git ~/.claude/skills/one-word-steer
 
 # 프로젝트용
-git clone https://github.com/<your-username>/one-word-steer.git .claude/skills/one-word-steer
+git clone https://github.com/jiseong-jang/one-word-steer.git .claude/skills/one-word-steer
 ```
 
 ### Claude.ai (웹 / 데스크톱)
